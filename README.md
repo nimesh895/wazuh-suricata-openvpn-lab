@@ -121,13 +121,13 @@ This extension taught me how to bridge endpoint and network monitoring—critica
 For recruiters: This project showcases initiative, practical problem-solving, and progression from endpoint-focused detection to multi-layer visibility—ideal preparation for Tier 1 SOC analyst or internship roles.
 Related Projects
 
-Core Wazuh SOC Homelab – Endpoint Monitoring (May 2025 – Present) : https://github.com/nimesh895/wazuh-soc-homelab
+- Core Wazuh SOC Homelab – Endpoint Monitoring (May 2025 – Present) : https://github.com/nimesh895/wazuh-soc-homelab
 
-Azure Security Monitoring Lab (Jan 2026 – Present) : https://github.com/nimesh895/azure-security-monitoring-lab
+- Azure Security Monitoring Lab (Jan 2026 – Present) : https://github.com/nimesh895/azure-security-monitoring-lab
 
 
 LinkedIn: linkedin.com/in/nimesh23
 
-Email: desilvanimesha684@gmail.com
+
 
 Feel free to reach out with questions or feedback!
