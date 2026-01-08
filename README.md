@@ -2,7 +2,8 @@
 
 **NGFW-Enhanced Wazuh SOC Homelab: Integrating Suricata IDS and OpenVPN for Network Anomaly Detection**  
 **January 2026 – Present**  
-*Cybersecurity Enthusiast | SLIIT Student*
+
+![Architecture Design](arc.png)
 
 This project extends my core Wazuh SIEM homelab by adding next-generation firewall (NGFW)-style network visibility using open-source tools. I integrated **Suricata** as an Intrusion Detection System (IDS) and **OpenVPN** for simulated VPN monitoring, enabling detection of anomalies such as impossible travel (same user authenticating via VPN and locally in a short time window).
 
@@ -121,9 +122,12 @@ For recruiters: This project showcases initiative, practical problem-solving, an
 Related Projects
 
 Core Wazuh SOC Homelab – Endpoint Monitoring (May 2025 – Present) : https://github.com/nimesh895/wazuh-soc-homelab
+
 Azure Security Monitoring Lab (Jan 2026 – Present) : https://github.com/nimesh895/azure-security-monitoring-lab
 
 
 LinkedIn: linkedin.com/in/nimesh23
+
 Email: desilvanimesha684@gmail.com
+
 Feel free to reach out with questions or feedback!
