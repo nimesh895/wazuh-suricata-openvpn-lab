@@ -126,7 +126,7 @@ Related Projects
 - Azure Security Monitoring Lab (Jan 2026 – Present) : https://github.com/nimesh895/azure-security-monitoring-lab
 
 
-LinkedIn: linkedin.com/in/nimesh23
+LinkedIn: https://linkedin.com/in/nimesh23
 
 
 
