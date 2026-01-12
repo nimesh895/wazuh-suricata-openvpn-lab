@@ -113,11 +113,14 @@ Example Rule: Local Login within 5 Minutes
 Testing & Validation
 
 Simulated VPN connections from Kali and local Windows logins to validate rule triggering.
+
 Observed Suricata alerts on network scans and OpenVPN authentication events in Wazuh dashboard.
+
 Potential Improvements: Add GeoIP module for distance-based impossible travel; tune rules for lower false positives.
 
 Learnings & Professional Value
 This extension taught me how to bridge endpoint and network monitoring—critical for modern SOC environments where threats often involve lateral movement or credential abuse. It reinforces my ability to configure, integrate, and tune open-source security tools effectively in a resource-constrained setting.
+
 For recruiters: This project showcases initiative, practical problem-solving, and progression from endpoint-focused detection to multi-layer visibility—ideal preparation for Tier 1 SOC analyst or internship roles.
 Related Projects
 
