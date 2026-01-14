@@ -110,13 +110,17 @@ Custom VPN Correlation Rules
 Example Rule: Local Login within 5 Minutes
 ![Rule for correlating multiple events (timeframe 300s, same_user yes).](examplerulevpnlocalloginin5min.png)
 
-Testing & Validation
+Testing & Validation:
 
-Simulated VPN connections from Kali and local Windows logins to validate rule triggering.
+- Simulated VPN connections from Kali and local Windows logins to validate rule triggering.
 
-Observed Suricata alerts on network scans and OpenVPN authentication events in Wazuh dashboard.
+- Observed Suricata alerts on network scans and OpenVPN authentication events in Wazuh dashboard.
 
-Potential Improvements: Add GeoIP module for distance-based impossible travel; tune rules for lower false positives.
+- Potential Improvements: Add GeoIP module for distance-based impossible travel; tune rules for lower false positives.
+
+
+
+
 
 Learnings & Professional Value
 This extension taught me how to bridge endpoint and network monitoring—critical for modern SOC environments where threats often involve lateral movement or credential abuse. It reinforces my ability to configure, integrate, and tune open-source security tools effectively in a resource-constrained setting.
